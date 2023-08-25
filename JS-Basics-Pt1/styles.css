@@ -18,3 +18,18 @@ p {
     display:inline-block;
 }
 
+.PlayerOne:hover{
+    transform: translate(-30px); rotate: (-90deg);
+}
+
+.PlayerTwo:hover{
+    transform: translate(30px); rotate: (-90deg);
+}
+
+.PlayerThree:hover{
+    transform: translate(-30px); rotate: (-90deg);
+}
+
+.PlayerFour:hover{
+    transform: translate(30px); rotate: (-90deg);
+}
